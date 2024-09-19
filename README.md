@@ -1,6 +1,5 @@
-# GlobalClimateChange_MLProject
--Mini Final Project for Aygaz Machine Learning Bootcamp lead by Global AI Hub
 
+Mini Final Project for Aygaz Machine Learning Bootcamp lead by Global AI Hub
 # İklim Verileri Analizi ve Gelecek Tahminleri
 https://www.kaggle.com/code/mertpalaolu/globalclimatechange-mlproject
 ## Proje Açıklaması
